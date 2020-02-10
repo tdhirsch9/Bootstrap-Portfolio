@@ -1,0 +1,57 @@
+.navbar-custom{
+
+}
+
+
+.Name{
+    text-align: center;
+    width:240px;
+    font-size: 28px;
+    color: aquamarine;
+    background: #4aaaa5;
+    line-height: 100px;
+    font-weight: 600;
+}
+
+.navbar{
+    text-align: center;
+    line-height: 100px;
+}
+
+.alink{
+    padding-left: 550px;
+    border-right: 1px solid #d6d6d69d;
+}
+
+.plink{
+    border-right: 1px solid #d6d6d69d;
+}
+
+.img{
+    width:500px;
+    height:300px;
+}
+
+.card-body{
+    border-bottom: solid 3px;
+}
+
+.container-body{
+    width:100%;
+    border: 1px solid #dddddd;
+    background: #ffffff;
+
+    padding: 25px;
+    margin: 0 0 30px;
+}
+
+.container{
+    padding-top: 20px;
+
+}
+
+.card-title{
+    color: #4aaaa5 ;
+    border-bottom: 2px solid #666666;
+    width: 100%;
+}
